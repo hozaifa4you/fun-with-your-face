@@ -1,0 +1,21 @@
+{
+	"name": "fac-ai",
+	"version": "1.0.0",
+	"description": "This is face api library",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"dev": "nodemon index.js"
+	},
+	"author": "yousuf4you",
+	"license": "MIT",
+	"private": true,
+	"dependencies": {
+		"ejs": "^3.1.6",
+		"express": "^4.17.2",
+		"morgan": "^1.10.0"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.15"
+	}
+}
